@@ -1,0 +1,10 @@
+{
+  "name": "wetube2",
+  "version": "1.0.0",
+  "description": "Cloning youtube",
+  "main": "index.js",
+  "author": "sungmin",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
